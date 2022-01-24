@@ -87,7 +87,7 @@
                 <p class="text-base">
                   By selecting this, you agree to the
                   {{ ' ' }}
-                  <a href="#" class="font-medium text-longevity-blue-dark underline">Privacy Policy</a>
+                  <a href="#" class="font-medium text-longevity-blue-dark hover:text-longevity-blue transition-colors underline">Privacy Policy</a>
                   {{ ' ' }}
                   and
                   {{ ' ' }}
